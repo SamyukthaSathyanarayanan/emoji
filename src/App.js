@@ -42,7 +42,7 @@ export default function App() {
     setEmojiMeaning(meaning);
   }
   return (
-    <div className="App" style={{ margin: "4rem" }}>
+    <div className="App">
       <h1>Emoji Interpreter</h1>
       <p style={{ fontSize: "1rem" }}>
         Enter or Click on the Emoji whose meaning you want to learn.
